@@ -24,7 +24,7 @@ No database is used. All data is stored in memory.
 
 ```bash
 # Clone repo
-git clone https://github.com/YOUR_USERNAME/telecom-cart-api.git
+git clone https://github.com/boroleamol90/telecom-cart.git
 
 cd telecom-cart-api
 
